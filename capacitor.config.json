@@ -1,0 +1,8 @@
+{
+  "appId": "com.qivos.balfin",
+  "appName": "new_mobile_app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
